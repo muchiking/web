@@ -1,0 +1,29 @@
+
+
+.c-item {
+    height: 600px;
+  }
+  
+  .c-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+  }
+  .c2 {
+    margin: auto;
+    /* width: 50%; */
+    /* object-fit: cover; */
+    /* border: 3px solid green; */
+    padding-top: 10%;
+    padding-left: 66%;
+  }
+  .img_2{
+    object-fit: cover;
+    height: 60px;
+
+  }
+  /* .about-us{
+    height: 640;
+    width: 360;
+
+  } */
